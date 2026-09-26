@@ -96,7 +96,6 @@ Entre las operaciones disponibles se encuentran:
 | PATCH  | `/api/updateAmount/:id` | Actualizar la cantidad    |
 | PATCH  | `/api/updateSupply/:id` | Actualizar un insumo      |
 
-> Los endpoints pueden variar según la configuración actual del proyecto.
 
 ## Base de datos
 
